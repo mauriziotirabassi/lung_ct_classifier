@@ -1,4 +1,4 @@
-# Deep Learning Pipeline for Lung Cancer CT Classification
+# Lung Cancer CT Malignancy Classifier
 
 This repository contains the complete workflow, implementation, and report for a deep learning project focused on automatic lung cancer malignancy classification from computed tomography (CT) images.
 
